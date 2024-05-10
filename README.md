@@ -17,3 +17,9 @@ After which i used an if statement to check if there are any duplicates and if t
 ## Technologies Used
 
 \*Javascript for functionality.
+
+## Loom Video Link 
+
+https://www.loom.com/share/51a38653b27b4026bf14be1b4f8aa6f2?sid=96be738f-2509-4d1d-a4ce-49e7b939304e
+
+
